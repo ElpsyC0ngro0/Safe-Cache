@@ -21,3 +21,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/ElpsyC0ngro0/Safe-Cache.git
 cd Safe-Cache
+```
+##How to use  
+i)ttl_module.py:  
+-
