@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Sriram R
+Copyright (c) 2025 PRESENT ELpsyC0ngro0
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
